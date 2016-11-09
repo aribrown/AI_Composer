@@ -5,6 +5,11 @@ and a basic composer system, with full implementation
 of the musical language, and GUI representation using
 SDL2 framework. 
 
+
+-------- To Run ----------------------
+In terminal:
+        sh run_composer.sh
+
 ----------- Requirements ----------------
 Frameworks:
 SDL2
