@@ -1,0 +1,62 @@
+README
+
+Music Classes for multiple musical structures,
+and a basic composer system, with full implementation
+of the musical language, and GUI representation using
+SDL2 framework. 
+
+----------- Requirements ----------------
+Frameworks:
+SDL2
+SDL2_image
+SDL2_mixer
+SDL2_ttf
+
+--------- IDEAS -------------------------
+
+create rhythmic patterns
+create a better harmonic calculator:
+7th chords
+leading tone resolution
+harmonize the bassline
+
+secondary chords
+modulation
+modality
+melody
+repetition, themes
+periods and sentences
+sequences
+sections, piece form
+stress beats in performer using velocities
+
+create different sounds
+
+---------------------------------------
+
+---------- IMPLEMENTATION OUTLINE ------
+
+Note: I used to be ridiculous, and so all of the following classes
+are in one file, called musicapp.cpp. Enjoy!
+
+1. Constant Section
+2. SDL related functions
+3. struct declarations
+4. Visual - Line Class
+5. Visual - Rectangle Class
+6. Visual - Object Class
+7. Visual - Textbox Class
+8. Key signature Class
+9. Stem class for note
+10. Note class
+11. Staff CLass
+12. Chord Class
+13. Progression Class
+14. Composer Class
+15. Piece Class
+16. Performer Class - For Playback
+17. Design Class - For GUI
+18. Main Implementation
+
+
+
